@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  Board.cpp
+  BoardGame.cpp
+e:\boardgame\boardgame\boardgame.cpp(16): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Cell.cpp
+  Event.cpp
+  FatMan.cpp
+  Game.cpp
+  Person.cpp
+  Slave.cpp
+  Smoker.cpp
+  코드를 생성하고 있습니다...
+e:\boardgame\boardgame\game.cpp(65): warning C4715: 'Game::RandomSelect': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  BoardGame.vcxproj -> E:\BoardGame\Debug\BoardGame.exe
